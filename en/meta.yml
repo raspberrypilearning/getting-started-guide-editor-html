@@ -1,11 +1,17 @@
-title: default-project-template
+title: Getting started with the Raspberry Pi Editor - HTML
 hero_image: images/banner.png
-description: default-project-template description
+description: Getting started with the Raspberry Pi Editor - HTML
 version: 4
 listed: false
 copyedit: false
-last_tested: "2022-05-19"
+last_tested: "2024-02-15"
 steps:
   - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Logging in
+  - title: Account menu
+  - title: Your projects
+  - title: Editor panels
+  - title: Resizing the panels
+  - title: Sidebar panel
+  - title: Code panel
+  - title: Preview panel
