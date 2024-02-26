@@ -18,7 +18,7 @@ There are five other icons, one for each sidebar panel.
 
 --- collapse ---
 ---
-title: ![The Project Information button](images/button_project.png) Project Information
+title: Project Information
 ---
 ![The Project Information button](images/button_project.png)
 
