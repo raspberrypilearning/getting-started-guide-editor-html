@@ -20,85 +20,60 @@ There are five other icons, one for each sidebar panel.
 ---
 title: Project Information
 ---
-![The Project Information button](images/button_project.png)
 
-Name (and edit button), Type, and Download link
+![Project Information panel](images/sidepanel_projects_info.png)
 
-
---- /collapse ---
-
---- collapse ---
----
-title: What are the Sidebar icons?
----
++ Name (and edit button)
++ Type
++ Button to download your project files.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What are the Sidebar icons?
+title: Project files
 ---
 
---- /collapse ---
-
---- collapse ---
----
-title: What are the Sidebar icons?
----
-
---- /collapse ---
-
---- collapse ---
----
-title: What are the Sidebar icons?
----
-
---- /collapse ---
-
-
-1) Project files
-2) Settings
-3) Editor Information
-4) Collapse
-
-The sub-panels are explored in detail here:
-
---- collapse ---
----
-title: What are the Sidebar icons?
----
-1) Project files:
-    
-    ![The Project Files button](images/button_files.png)
-
-2) Settings:
-    
-    ![The Settings button](images/button_settings.png)
-3) Editor Information:
-    
-    ![The Editor Information button](images/button_info.png)
-4) Collapse:
-    
-    ![The Collapse button](images/button_collapse.png)
-
---- /collapse ---
-
-
-
-### Project files
+![Project files panel](images/sidepanel_project_files.png)
 
 When you open a blank HTML/CSS project, you are provided with two Project files: `index.html` and `styles.css`
 
-Projects
-Current project name (+ edit)
-Project
-Download
-Project files
-Add file
-File list
-Rename option
-Settings
-Light/dark Theme
-Text size
-Information
-Hide/show sidebar
+You can click the `Add file` button to add a new HTML, CSS or JavaScript file
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Settings
+---
+
+![Settings panel](images/sidepanel_settings.png)
+
++ Theme: Light or Dark mode
++ Text size: Small, Medium or Large
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Editor Information
+---
+
+![Editor information panel](images/sidepanel_information.png)
+
++ The purpose of the Raspberry Pi Editor
++ Links to policies
++ UK registered charity information
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: The collapse button
+---
+
+![Sidebar collapse button](images/button_collapse.png)
+
+Click to hide the Sidebar
+
+--- /collapse ---
