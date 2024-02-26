@@ -42,7 +42,7 @@ title: What you will learn
 + What the different panels are
 + How to resize the panels
 + How to name a project
-+ How to add/rename/delete a file
++ How to add/rename a file
 + How to change to dark mode / light mode
 + How to change the text size
 + How to run your code
