@@ -1,7 +1,30 @@
-## What next?
+## Editor tour
 
-If you are following the [PathwayName](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [ProjectName](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
+This screenshot shows the three main panels
+1) The Sidebar panel on the left
+2) The Code panel in the middle
+3) The Preview panel on the right.
 
-![ProjectName project](images/projectname-project.png)
+![A labelled screenshot of the Raspberry Pi Editor](images/panels_numbered.png)
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+### Resizing the panels
+
+You can resize the panels using the handles.
+
+![A screenshot showing the panel resize handles](images/resize_handles.png)
+
+### Adaptive layout
+
+The layout will adapt if you resize your browser window, or if you are working on a device with a smaller screen size.
+
+![A screenshot showing the panels in an adapted layout](images/panels_adapted.png)
+
+The screenshot shows the three main panels in an adapted layout, with the Preview panel vertically below the Code panel
+
+### Project bar
+
+The project bar is at the top of the page and shows:
+
++ The name of your project, with an edit button, so you can change the project name.
++ A button to let you download your project files
++ A link to log in. This changes to ‘save’ when you are logged in.

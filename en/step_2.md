@@ -1,23 +1,47 @@
-## Step title
+## Editor homepage
 
-Add an introductory sentence. What will learners achieve by the end of this step?
+In this step you will see how you can log in to the Raspberry Pi Editor, and create your first HTML project. 
 
---- task ---
+You can access the Raspberry Pi Editor [here](https://editor.raspberrypi.org/en/){:target="_blank"}
 
-If working **online**, open the [starter project](https://rpf.io/p/en/projectName-on){:target="_blank"} in Scratch.
- 
-If working **offline**, open the project [starter file](https://rpf.io/p/en/projectName-get){:target="_blank"} in the Scratch offline editor. If you need to download and install Scratch, you can find it [here](https://scratch.mit.edu/download){:target="_blank"}.
+![The Raspberry Pi Editor homepage screen. Two buttons are shown: "Start coding Python" and "Start coding HTML/CSS". There are also links to the Python and Web project paths.](images/home.png)
 
-You should see...
- 
-![starter project](images/starter_project.png)
-
---- /task ---
+### Start coding HTML!
 
 --- task ---
 
-Step content...
+Click on the `Start coding HTML/CSS` button
 
 --- /task ---
 
---- save ---
+--- collapse ---
+
+---
+title: Logging in
+---
+
+If you have a Raspberry Pi account, you can log in to save your projects.
+
+You can log in from the link in the middle of the home screen:
+
+![The Editor homepage screen. Two buttons are shown: "Start coding Python" and "Start coding HTML/CSS". There are also links to the Python and Web project paths.](images/home.png)
+
+...or from the Account menu at the top right:
+
+![The Account menu icon - a face drawn out of blocks.](https://editor.raspberrypi.org//releases/v0.21.2/static/media/unauthenticated_user.2115c4b0.svg)
+
+--- /collapse ---
+
+The Raspberry Pi Editor will open.
+
+![The Raspberry Pi Editor screen.](images/editor-blank.png)
+
+--- task ---
+
+The expand button is at the bottom left of the Editor. 
+
+![A screenshot of the Editor showing the expand button highlighted and labelled.](images/expand_button.png)
+
+Click it to show the sidebar panel.
+
+--- /task ---

@@ -1,7 +1,20 @@
-## What next?
+## Sidebar panel
 
-If you are following the [PathwayName](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [ProjectName](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
+With the side bar expanded, you will see the Project files section.
 
-![ProjectName project](images/projectname-project.png)
+When you open a blank HTML/CSS project, you are provided with two Project files: `index.html` and `styles.css`
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+<> Image
+Projects
+Current project name (+ edit)
+Project
+Download
+Project files
+Add file
+File list
+Rename option
+Settings
+Light/dark Theme
+Text size
+Information
+Hide/show sidebar
