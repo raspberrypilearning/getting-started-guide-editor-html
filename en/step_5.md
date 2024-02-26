@@ -39,34 +39,35 @@ In this example, you can see that the Editor highlights each opening and closing
 title: Indentation
 ---
 
-The Editor will automatically format your code by adding spaces to create a visual hierarchy and structure. Indentation does not affect how the HTML document is rendered in a browser, but it helps make code more readable and easier to maintain.
+The Editor will automatically format your code by adding spaces to create a visual structure. 
 
-In this example, you can see that the `<head>` and `<body>` elements are nested in the `<html>` tags - they are known as child elements, under the parent `<html>`
+Indentation does not affect how the HTML document is displayed in a browser, but it helps make code more readable and easier to edit.
+
+In this example, you can see that the `<head>` and `<body>` elements are nested in the `<html>` tags - they are known as 'child' elements, under their 'parent' `<html>`
 
 ![HTML code in the Editor](images/index_code.png)
 
+Here is the structure, shown as a hierarchy.
+ 
 --- code ---
 ---
 language: html
 filename: index.html
-line_numbers: 
-line_number_start: 1
-line_highlights:
 ---
 
 <!DOCTYPE html>
 |
-└─ <html lang="en">
+└─ <html>
    |
    └─ <head>
    |  |
-   |  ├─ <meta charset="UTF-8" />
+   |  ├─ <meta>
    |  |
-   |  ├─ <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+   |  ├─ <meta>
    |  |
-   |  ├─ <title>Getting Started with the Raspberry Pi Editor</title>
+   |  ├─ <title>
    |  |
-   |  └─ <link rel="stylesheet" href="style.css" />
+   |  └─ <link>
    |  
    └─ <body>
       |
@@ -84,8 +85,6 @@ line_highlights:
 --- task ---
 
 ### Try it
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 175px; flex-grow: 1">  
 
 Add this HTML to your project.
 
@@ -104,7 +103,7 @@ line_highlights:
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Getting Started with the Raspberry Pi Editor</title>
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
     <main>
@@ -124,12 +123,44 @@ line_highlights:
 + Click the **Run** button.
 + Your code will be rendered in the Preview panel.
 
-</div>
-</div>
-
 --- /task ---
-
 
 --- print-only ---
 ![HTML code in the Code panel](images/index_code.png)
 --- /print-only ---
+
+--- task ---
+
+### Style it!
+
+Open the file `styles.css`
+
+Add this CSS to your project.
+
+--- code ---
+---
+language: css
+filename: styles.html
+line_numbers: true
+line_number_start: 1
+line_highlights:
+---
+
+p {
+  font-size: 4cqh;
+  padding-left: 5vw;
+}
+
+--- /code ---
+
+**Notice** the line numbering, syntax highlighting and indentation.
+
+**Test:** 
+
++ Click the **Run** button.
++ Your code will be rendered in the Preview panel.
++ The text will be bigger and be padded from the left.
+
+--- /task ---
+
+
