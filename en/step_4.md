@@ -21,7 +21,7 @@ The layout will adapt if you resize your browser window, or if you are working o
 
 The screenshot shows the three main panels in an adapted layout, with the Preview panel vertically below the Code panel
 
-### Project bar
+### Project bar
 
 The project bar is at the top of the page and shows:
 

@@ -62,7 +62,11 @@ line_highlights:
    |  |
    |  ├─ <meta charset="UTF-8" />
    |  |
-   |  └─ <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+   |  ├─ <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+   |  |
+   |  ├─ <title>Getting Started with the Raspberry Pi Editor</title>
+   |  |
+   |  └─ <link rel="stylesheet" href="style.css" />
    |  
    └─ <body>
       |
@@ -71,6 +75,7 @@ line_highlights:
          └─ <p>
             |
             └─ Welcome to the Raspberry Pi Editor!
+
 
 --- /code ---
 
