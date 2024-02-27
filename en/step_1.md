@@ -12,10 +12,7 @@ The Raspberry Pi Editor can be used to write and run code in a web browser witho
 
 ### What you will make
 
-You will take a tour of the Raspberry Pi Editor. You will write a simple web page in HTML.
-
-**TODO:** Update this vvvv
-<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/html-guide-complete" width="100%" height="800" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+You will take a tour of the Raspberry Pi Editor and write a simple web page using HTML and CSS.
 
 The rest of this project will guide you through the features of the Editor!
 
