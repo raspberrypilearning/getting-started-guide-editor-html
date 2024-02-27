@@ -28,7 +28,7 @@ You can log in from the link in the middle of the home screen:
 
 ...or from the Account menu at the top right:
 
-![The Account menu icon - a face drawn out of blocks.](https://editor.raspberrypi.org//releases/v0.21.2/static/media/unauthenticated_user.2115c4b0.svg)
+![The Account menu icon - a face drawn out of blocks.](images/account_menu_icon.png)
 
 --- /collapse ---
 
