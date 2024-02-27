@@ -1,6 +1,6 @@
 ## Editor homepage
 
-In this step you will see how you can log in to the Raspberry Pi Editor, and create your first HTML project. 
+In this step you will see how you can create your first HTML project and log in to the Raspberry Pi Editor! 
 
 You can access the Raspberry Pi Editor [here](https://editor.raspberrypi.org/en/){:target="_blank"}
 
@@ -32,7 +32,7 @@ You can log in from the link in the middle of the home screen:
 
 --- /collapse ---
 
-The Raspberry Pi Editor will open.
+The Raspberry Pi Editor will open with a blank project.
 
 ![The Raspberry Pi Editor screen.](images/editor-blank.png)
 

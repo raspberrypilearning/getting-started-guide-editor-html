@@ -1,14 +1,16 @@
 ## Your account and projects
 
-Account menu
-Log in
-When logged in:
-My profile
-My projects
-Log out
-‘Your projects’ page
-Create a new project
-Projects list
-Continue
-Rename
-Delete
+You can access the Account menu from the top right of the Editor.
+
+When logged in, you will be able to access:
++ My profile
++ My projects
++ Log out
+
+![The Account menu, showing three options](images/account_menu.png)
+
+Clicking 'My projects will take you to the ‘Your projects’ page.
+
+Here, you can create a new project and see the projects list, where you have the option to continue, rename or delete a project.
+
+![The Account menu, showing three options](images/account_menu.png)
