@@ -10,7 +10,7 @@ Here is the expanded Sidebar panel.
 
 There are six icons on the left.
 
-The Editor logo is top:
+The Editor logo is top.
 
 ![Editor logo](images/<>.png)
 
@@ -72,8 +72,8 @@ title: Editor Information
 title: The collapse button
 ---
 
-![Sidebar collapse button](images/button_collapse.png)
+Click `<<` to hide the Sidebar.
 
-Click to hide the Sidebar
+Click `>>` to expand the Sidebar.
 
 --- /collapse ---

@@ -1,6 +1,6 @@
 ## The Code and Preview panels
 
-## The Code panel
+![HTML code in the Editor. The Preview panel is blank](images/index_and_preview.png)
 
 At the top of the panel is the file name. 
 
@@ -123,6 +123,8 @@ line_highlights:
 + Click the **Run** button.
 + Your code will be rendered in the Preview panel.
 
+![HTML code in the Editor - The Preview panel shows the output](images/index_and_preview_run.png)
+
 --- /task ---
 
 --- print-only ---
@@ -160,6 +162,8 @@ p {
 + Click the **Run** button.
 + Your code will be rendered in the Preview panel.
 + The text will be bigger and be padded from the left.
+
+![HTML code in the Editor - The Preview panel shows the output in a bigger font and with padding applied to the left](images/index_and_preview_run_css.png)
 
 --- /task ---
 
