@@ -142,7 +142,7 @@ Add this CSS to your project.
 --- code ---
 ---
 language: css
-filename: styles.html
+filename: styles.css
 line_numbers: true
 line_number_start: 1
 line_highlights:
@@ -161,7 +161,7 @@ p {
 
 + Click the **Run** button.
 + Your code will be rendered in the Preview panel.
-+ The text will be bigger and be padded from the left.
++ The text will be bigger and padded (indented) on the left.
 
 ![HTML code in the Editor - The Preview panel shows the output in a bigger font and with padding applied to the left](images/index_and_preview_run_css.png)
 

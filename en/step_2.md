@@ -44,4 +44,8 @@ The expand button is at the bottom left of the Editor.
 
 Click it to show the sidebar panel.
 
+The Project files panel will open.
+
+The blank project has two files: `index.html` and `styles.css`.
+
 --- /task ---
