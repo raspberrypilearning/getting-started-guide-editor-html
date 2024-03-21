@@ -4,7 +4,7 @@ Here is the expanded Sidebar panel.
 
 (The Project files are shown by default.)
 
-![The Sidebar panel showing the Project files](images/project_files.png)
+![The Sidebar panel showing the Project files.](images/project_files.png)
 
 ### Sidebar panels
 
@@ -18,14 +18,14 @@ There are five other icons, one for each sidebar panel.
 
 --- collapse ---
 ---
-title: Project Information
+title: Project information
 ---
 
-![Project Information panel](images/sidepanel_projects_info.png)
+![Project information panel.](images/sidepanel_projects_info.png)
 
 + Name (and edit button)
 + Type
-+ Button to download your project files.
++ Button to download your project files
 
 --- /collapse ---
 
@@ -34,11 +34,11 @@ title: Project Information
 title: Project files
 ---
 
-![Project files panel](images/sidepanel_project_files.png)
+![Project files panel.](images/sidepanel_project_files.png)
 
-When you open a blank HTML/CSS project, you are provided with two Project files: `index.html` and `styles.css`
+When you open a blank HTML/CSS project, you are provided with two Project files: `index.html` and `styles.css`.
 
-You can click the `Add file` button to add a new HTML, CSS or JavaScript file
+You can click the `Add file` button to add a new HTML, CSS, or JavaScript file.
 
 --- /collapse ---
 
@@ -49,14 +49,14 @@ title: Settings
 
 ![Settings panel](images/sidepanel_settings.png)
 
-+ Theme: Light or Dark mode
-+ Text size: Small, Medium or Large
++ Theme: Light or dark mode
++ Text size: Small, medium, or large
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Editor Information
+title: Editor information
 ---
 
 ![Editor information panel](images/sidepanel_information.png)
