@@ -1,10 +1,10 @@
 ## The Code and Preview panels
 
-![HTML code in the Editor. The Preview panel is blank](images/index_and_preview.png)
+![HTML code in the Editor. The Preview panel is blank.](images/index_and_preview.png)
 
-At the top of the panel is the file name. 
+The file name is at the top of the panel. 
 
-In this example, the file name is `index.html`
+In this example, the file name is `index.html`.
 
 The Code panel includes the following features: 
 
@@ -30,7 +30,7 @@ It helps distinguish different parts of the code and is a valuable tool for deve
 
 In this example, you can see that the Editor highlights each opening and closing tag in green. Values are highlighted in red.
 
-![HTML code in the Editor](images/index_code.png)
+![HTML code in the Editor.](images/index_code.png)
 
 --- /collapse ---
 
@@ -43,9 +43,9 @@ The Editor will automatically format your code by adding spaces to create a visu
 
 Indentation does not affect how the HTML document is displayed in a browser, but it helps make code more readable and easier to edit.
 
-In this example, you can see that the `<head>` and `<body>` elements are nested in the `<html>` tags - they are known as 'child' elements, under their 'parent' `<html>`
+In this example, you can see that the `<head>` and `<body>` elements are nested in the `<html>` tags — they are known as 'child' elements, under their 'parent' `<html>`.
 
-![HTML code in the Editor](images/index_code.png)
+![HTML code in the Editor.](images/index_code.png)
 
 Here is the structure, shown as a hierarchy.
  
@@ -102,7 +102,7 @@ line_highlights:
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Getting Started with the Raspberry Pi Editor</title>
+    <title>Getting started with the Raspberry Pi Editor</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
@@ -116,19 +116,19 @@ line_highlights:
 
 --- /code ---
 
-**Notice** the line numbering, syntax highlighting and indentation.
+**Notice** the line numbering, syntax highlighting, and indentation.
 
 **Test:** 
 
 + Click the **Run** button.
 + Your code will be rendered in the Preview panel.
 
-![HTML code in the Editor - The Preview panel shows the output](images/index_and_preview_run.png)
+![HTML code in the Editor - The Preview panel shows the output.](images/index_and_preview_run.png)
 
 --- /task ---
 
 --- print-only ---
-![HTML code in the Code panel](images/index_code.png)
+![HTML code in the Code panel.](images/index_code.png)
 --- /print-only ---
 
 --- task ---
@@ -155,15 +155,15 @@ p {
 
 --- /code ---
 
-**Notice** the line numbering, syntax highlighting and indentation.
+**Notice** the line numbering, syntax highlighting, and indentation.
 
 **Test:** 
 
-+ Click the **Run** button.
-+ Your code will be rendered in the Preview panel.
-+ The text will be bigger and padded (indented) on the left.
++ Click the **Run** button
++ Your code will be rendered in the Preview panel
++ The text will be bigger and padded (indented) on the left
 
-![HTML code in the Editor - The Preview panel shows the output in a bigger font and with padding applied to the left](images/index_and_preview_run_css.png)
+![HTML code in the Editor - The Preview panel shows the output in a bigger font and with padding applied to the left.](images/index_and_preview_run_css.png)
 
 --- /task ---
 
