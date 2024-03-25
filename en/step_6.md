@@ -10,7 +10,7 @@ Here is the expanded Sidebar panel.
 
 There are six icons on the left.
 
-The Editor logo is top.
+The Editor logo is at the top.
 
 ![Editor logo](images/<>.png)
 
