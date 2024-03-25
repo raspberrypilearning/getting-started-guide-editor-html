@@ -9,7 +9,7 @@ When logged in, you will be able to access:
 
 ![The Account menu, showing three options.](images/account_menu.png)
 
-Clicking `My projects` will take you to the **Your projects** page.
+Clicking **My projects** will take you to the 'Your projects' page.
 
 Here, you can create a new project and see the projects list, where you have the option to continue, rename, or delete a project.
 
