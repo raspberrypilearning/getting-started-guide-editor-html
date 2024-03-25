@@ -19,7 +19,7 @@ The layout will adapt if you resize your browser window, or if you are working o
 
 ![A screenshot showing the panels in an adapted layout.](images/panels_adapted.png)
 
-The screenshot shows the three main panels in an adapted layout, with the Preview panel vertically below the Code panel.
+This screenshot shows the three main panels in an adapted layout, with the Preview panel vertically below the Code panel.
 
 ### Project bar
 
