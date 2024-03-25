@@ -24,7 +24,7 @@ Line numbering helps you keep track of where you are in your project and helps y
 title: Syntax highlighting
 ---
 
-Syntax highlighting improves readability of code by applying colours and styles to different elements based on the language's syntax (the 'rules' of the language). 
+Syntax highlighting improves the readability of code by applying colours and styles to different elements based on the language's syntax (the 'rules' of the language). 
 
 It helps distinguish different parts of the code and is a valuable tool for developers, making code more accessible.
 
