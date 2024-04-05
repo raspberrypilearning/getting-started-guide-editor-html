@@ -1,6 +1,6 @@
 ## Introduction
 
-![Illustration of a computer screen and a phone screen, both displaying a webpage.](images/index_and_preview_run_css.png)
+![HTML code in the Editor - The Preview panel shows the output.](images/index_and_preview_run.png)
 
 The Raspberry Pi Editor can be used to write and run code in a web browser without installing any additional software and without the need to create an account (although if you’re logged in to a Raspberry Pi Foundation account, your coding project is automatically saved).
 
