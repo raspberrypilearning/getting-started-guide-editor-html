@@ -1,4 +1,4 @@
-##Code Editor tour
+## Code Editor tour
 
 This screenshot shows the three main panels:
 1) The Sidebar panel on the left

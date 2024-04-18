@@ -1,4 +1,4 @@
-##Code Editor homepage
+## Code Editor homepage
 
 In this step, you will see how you can create your first HTML project and log in to the Raspberry Pi Code Editor! 
 
