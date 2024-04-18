@@ -56,10 +56,10 @@ title: Settings
 
 --- collapse ---
 ---
-title:Code Editor information
+title: Code Editor information
 ---
 
-!Code Editor information panel](images/sidepanel_information.png)
+![Code Editor information panel](images/sidepanel_information.png)
 
 + The purpose of the Raspberry Pi Code Editor
 + Links to policies
