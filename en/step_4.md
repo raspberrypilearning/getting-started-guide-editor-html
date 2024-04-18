@@ -5,7 +5,7 @@ This screenshot shows the three main panels:
 2) The Code panel in the middle
 3) The Preview panel on the right
 
-![A labelled screenshot of the Raspberry PiCode Editor.](images/panels_numbered.png)
+![A labelled screenshot of the Raspberry Pi Code Editor.](images/panels_numbered.png)
 
 ### Resize the panels
 

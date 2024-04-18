@@ -61,7 +61,7 @@ title:Code Editor information
 
 !Code Editor information panel](images/sidepanel_information.png)
 
-+ The purpose of the Raspberry PiCode Editor
++ The purpose of the Raspberry Pi Code Editor
 + Links to policies
 + UK registered charity information
 
