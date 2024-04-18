@@ -1,15 +1,15 @@
-title: Getting started with the Raspberry Pi Editor - HTML
+title: Getting started with the Raspberry PiCode Editor - HTML
 hero_image: images/banner.png
-description: Getting started with the Raspberry Pi Editor - HTML
+description: Getting started with the Raspberry PiCode Editor - HTML
 version: 4
 listed: false
 copyedit: false
 last_tested: "2024-02-15"
 steps:
   - title: Introduction
-  - title: Editor homepage
+  - title:Code Editor homepage
   - title: Your account and projects
-  - title: Editor tour
+  - title:Code Editor tour
   - title: The Code and Preview panels
   - title: Sidebar panel
   - title: What's next?

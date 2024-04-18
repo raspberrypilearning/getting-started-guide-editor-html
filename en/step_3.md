@@ -1,6 +1,6 @@
 ## Your account and projects
 
-You can access the Account menu from the top right of the Editor.
+You can access the Account menu from the top right of theCode Editor.
 
 When logged in, you will be able to access:
 + My profile
@@ -15,7 +15,7 @@ Here, you can create a new project and see the projects list, where you have the
 
 ![The Your projects page, showing links to three projects.](images/your_projects.png)
 
-To return to the Editor, you can:
+To return to theCode Editor, you can:
 + Choose a saved project
 + Create a new project
 + Click the back button in your browser

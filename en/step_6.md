@@ -10,9 +10,9 @@ Here is the expanded Sidebar panel.
 
 There are six icons on the left.
 
-The Editor logo is at the top.
+The HTML logo is at the top.
 
-![Editor logo](images/<>.png)
+![HTML logo](images/<>.png)
 
 There are five other icons, one for each sidebar panel.
 
@@ -56,12 +56,12 @@ title: Settings
 
 --- collapse ---
 ---
-title: Editor information
+title:Code Editor information
 ---
 
-![Editor information panel](images/sidepanel_information.png)
+!Code Editor information panel](images/sidepanel_information.png)
 
-+ The purpose of the Raspberry Pi Editor
++ The purpose of the Raspberry PiCode Editor
 + Links to policies
 + UK registered charity information
 
