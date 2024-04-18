@@ -75,7 +75,7 @@ filename: index.html
          |
          └─ <p>
             |
-            └─ Welcome to the Raspberry PiCode Editor!
+            └─ Welcome to the Raspberry Pi Code Editor!
 
 
 --- /code ---
@@ -102,13 +102,13 @@ line_highlights:
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Getting started with the Raspberry PiCode Editor</title>
+    <title>Getting started with the Raspberry Pi Code Editor</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
     <main>
       <p>
-        Welcome to the Raspberry PiCode Editor!
+        Welcome to the Raspberry Pi Code Editor!
       </p>
     </main>
   </body>

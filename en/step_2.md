@@ -1,10 +1,10 @@
 ##Code Editor homepage
 
-In this step, you will see how you can create your first HTML project and log in to the Raspberry PiCode Editor! 
+In this step, you will see how you can create your first HTML project and log in to the Raspberry Pi Code Editor! 
 
-You can access the [Raspberry PiCode Editor here](https://editor.raspberrypi.org/en/){:target="_blank"}.
+You can access the [Raspberry Pi Code Editor here](https://editor.raspberrypi.org/en/){:target="_blank"}.
 
-![The Raspberry PiCode Editor homepage screen. Two buttons are shown: "Start coding Python" and "Start coding HTML/CSS". There are also links to the Python and Web project paths.](images/home.png)
+![The Raspberry Pi Code Editor homepage screen. Two buttons are shown: "Start coding Python" and "Start coding HTML/CSS". There are also links to the Python and Web project paths.](images/home.png)
 
 ### Start coding HTML!
 
@@ -32,9 +32,9 @@ You can log in from the link in the middle of the homepage screen:
 
 --- /collapse ---
 
-The Raspberry PiCode Editor will open with a blank project.
+The Raspberry Pi Code Editor will open with a blank project.
 
-![The Raspberry PiCode Editor screen.](images/editor-blank.png)
+![The Raspberry Pi Code Editor screen.](images/editor-blank.png)
 
 --- task ---
 
