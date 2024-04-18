@@ -1,6 +1,6 @@
 ## The Code and Preview panels
 
-![HTML code in the Editor. The Preview panel is blank.](images/index_and_preview.png)
+![HTML code in theCode Editor. The Preview panel is blank.](images/index_and_preview.png)
 
 The file name is at the top of the panel. 
 
@@ -13,7 +13,7 @@ The Code panel includes the following features:
 title: Line numbering
 ---
 
-When you type new lines of code in the Editor, line numbers will be added for you. 
+When you type new lines of code in theCode Editor, line numbers will be added for you. 
 
 Line numbering helps you keep track of where you are in your project and helps you work with others on your code.
 
@@ -28,9 +28,9 @@ Syntax highlighting improves the readability of code by applying colours and sty
 
 It helps distinguish different parts of the code and is a valuable tool for developers, making code more accessible.
 
-In this example, you can see that the Editor highlights each opening and closing tag in green. Values are highlighted in red.
+In this example, you can see that theCode Editor highlights each opening and closing tag in green. Values are highlighted in red.
 
-![HTML code in the Editor.](images/index_code.png)
+![HTML code in theCode Editor.](images/index_code.png)
 
 --- /collapse ---
 
@@ -39,13 +39,13 @@ In this example, you can see that the Editor highlights each opening and closing
 title: Indentation
 ---
 
-The Editor will automatically format your code by adding spaces to create a visual structure. 
+TheCode Editor will automatically format your code by adding spaces to create a visual structure. 
 
 Indentation does not affect how the HTML document is displayed in a browser, but it helps make code more readable and easier to edit.
 
 In this example, you can see that the `<head>` and `<body>` elements are nested in the `<html>` tags — they are known as 'child' elements, under their 'parent' `<html>`.
 
-![HTML code in the Editor.](images/index_code.png)
+![HTML code in theCode Editor.](images/index_code.png)
 
 Here is the structure, shown as a hierarchy.
  
@@ -75,7 +75,7 @@ filename: index.html
          |
          └─ <p>
             |
-            └─ Welcome to the Raspberry Pi Editor!
+            └─ Welcome to the Raspberry PiCode Editor!
 
 
 --- /code ---
@@ -102,13 +102,13 @@ line_highlights:
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Getting started with the Raspberry Pi Editor</title>
+    <title>Getting started with the Raspberry PiCode Editor</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
     <main>
       <p>
-        Welcome to the Raspberry Pi Editor!
+        Welcome to the Raspberry PiCode Editor!
       </p>
     </main>
   </body>
@@ -123,7 +123,7 @@ line_highlights:
 + Click the **Run** button.
 + Your code will be rendered in the Preview panel.
 
-![HTML code in the Editor - The Preview panel shows the output.](images/index_and_preview_run.png)
+![HTML code in theCode Editor - The Preview panel shows the output.](images/index_and_preview_run.png)
 
 --- /task ---
 
@@ -163,7 +163,7 @@ p {
 + Your code will be rendered in the Preview panel
 + The text will be bigger and padded (indented) on the left
 
-![HTML code in the Editor - The Preview panel shows the output in a bigger font and with padding applied to the left.](images/index_and_preview_run_css.png)
+![HTML code in theCode Editor - The Preview panel shows the output in a bigger font and with padding applied to the left.](images/index_and_preview_run_css.png)
 
 --- /task ---
 

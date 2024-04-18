@@ -1,11 +1,11 @@
-## Editor tour
+##Code Editor tour
 
 This screenshot shows the three main panels:
 1) The Sidebar panel on the left
 2) The Code panel in the middle
 3) The Preview panel on the right
 
-![A labelled screenshot of the Raspberry Pi Editor.](images/panels_numbered.png)
+![A labelled screenshot of the Raspberry PiCode Editor.](images/panels_numbered.png)
 
 ### Resize the panels
 
