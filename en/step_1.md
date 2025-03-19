@@ -1,6 +1,6 @@
 ## Introduction
 
-![HTML code in theCode Editor - The Preview panel shows the output.](images/index_and_preview_run_css.png)
+![HTML code in the Code Editor - The Preview panel shows the output.](images/index_and_preview_run_css.png)
 
 The Raspberry Pi Code Editor can be used to write and run code in a web browser without installing any additional software and without the need to create an account (although if you’re logged in to a Raspberry Pi Foundation account, your coding project is automatically saved).
 
@@ -12,23 +12,9 @@ The Raspberry Pi Code Editor can be used to write and run code in a web browser 
 
 ### What you will make
 
-You will take a tour of the Raspberry Pi Code Editor and write a simple webpage using HTML and CSS.
+You will take a tour of the Code Editor and write a simple webpage using HTML and CSS.
 
-The rest of this project will guide you through the features of theCode Editor!
-
---- collapse ---
----
-title: What you will need
----
-### Hardware
-
-+ A computer
-
-### Software
-
-+ A browser to run theCode Editor
-
---- /collapse ---
+The rest of this project will guide you through the features of the Code Editor!
 
 --- collapse ---
 ---
